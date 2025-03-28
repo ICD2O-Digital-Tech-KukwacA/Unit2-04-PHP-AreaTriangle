@@ -13,7 +13,7 @@ form {
 }
 
 h1 {
-    background-color: #00ff6e;
+    background-color: #0037ff;
     text-align: center;
     padding: 20px;
     width: 80%;
@@ -35,7 +35,7 @@ p {
 
 iframe {
     margin-bottom: 5%;
-    background-color: #000000;
+    background-color: #26ff00;
     padding: 20px;
     width: 80%;
     margin-left: 10%;
@@ -43,7 +43,7 @@ iframe {
 }
 
 #yellow {
-    background-color: #fbff00;
+    background-color: #e3ea1f;
     padding: 20px;
     width: 80%;
     margin-left: 10%;
